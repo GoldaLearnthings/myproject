@@ -1,0 +1,1 @@
+["sex", "diabetes", "anaemia", "high_blood_pressure", "smoking"]
