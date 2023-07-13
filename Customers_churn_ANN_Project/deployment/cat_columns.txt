@@ -1,0 +1,1 @@
+["region_category", "membership_category", "joined_through_referral", "preferred_offer_types", "medium_of_operation", "internet_option", "offer_application_preference", "complaint_status", "feedback"]

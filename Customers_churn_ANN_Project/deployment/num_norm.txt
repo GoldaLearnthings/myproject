@@ -1,0 +1,1 @@
+["avg_frequency_login_days", "points_in_wallet"]
