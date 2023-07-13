@@ -1,4 +1,4 @@
-# Cursomers_churn_ANN_Project
+# Cursomers churn using ANN method Project
 
 In this doc, i try to made some deep learning prediction how machine can classify the costumers churn using Artificial Neural Network method from https://www.tensorflow.org/ to find the predicted classification.
 
