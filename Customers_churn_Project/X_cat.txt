@@ -1,0 +1,1 @@
+["HasCrCard", "IsActiveMember", "Geography", "Gender"]
